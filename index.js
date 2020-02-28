@@ -107,7 +107,7 @@ Baby.prototype.play = function() {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. window or global object binding
+  1. window or global object binding: outside of a function, the the this keyword
   2. implicit binding
   3. new binding
   4. explicit binding
